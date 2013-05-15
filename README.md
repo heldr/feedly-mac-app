@@ -6,7 +6,7 @@ Forget about Google Reader and run [Feedly][feedly] as a Mac app using Google Ch
 
 ```CLI
 $ git clone git@github.com:heldr/feedly-mac-app.git
-$ cd feedly_osx_chrome
+$ cd feedly-mac-app
 $ make install
 ```
 Then click on the button to install Feedly chrome plugin and close the app with CMD + Q after it. Copy your Feedly app to Applications path and enjoy your news ;)
