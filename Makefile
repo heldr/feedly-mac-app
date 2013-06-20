@@ -1,7 +1,7 @@
 build:
 	osascript buildFeedlyChromeWebApp.scpt
-run:
-	open Feedly.app
-clean:
+	cp -r Feedly.app /Applications/
 	rm -rf Feedly.app
+run:
+	open /Applications/Feedly.app
 install: build run

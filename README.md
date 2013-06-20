@@ -9,11 +9,6 @@ $ git clone git@github.com:heldr/feedly-mac-app.git
 $ cd feedly-mac-app
 $ make install
 ```
-Then click on the button to install Feedly chrome plugin and close the app with CMD + Q after it. Copy your Feedly app to Applications path and enjoy your news ;)
-
-```CLI
-$ cp -r Feedly.app /Applications/
-```
 
 ## License
 
