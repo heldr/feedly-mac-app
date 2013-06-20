@@ -5,7 +5,7 @@ Forget about Google Reader and run [Feedly][feedly] as a Mac app using Google Ch
 ### HOW TO INSTALL
 
 ```CLI
-$ git clone git@github.com:heldr/feedly-mac-app.git
+$ git clone https://github.com/heldr/feedly-mac-app.git
 $ cd feedly-mac-app
 $ make install
 ```
